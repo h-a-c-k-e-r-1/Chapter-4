@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Hat
+comment1.params=on\ num
+comment1.target=Hat(boolean,\ int)
+comment2.params=
+comment2.target=int\ getnumOfHats()
+comment3.params=
+comment3.target=boolean\ gethatOn()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
